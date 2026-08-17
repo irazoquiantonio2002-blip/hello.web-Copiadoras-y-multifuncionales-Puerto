@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 260" role="img" aria-labelledby="title desc">
+  <title id="title">Copiadoras y Multifuncionales del Puerto</title>
+  <desc id="desc">Logotipo corporativo limpio para una empresa de copias, impresiones y equipo multifuncional.</desc>
+  <defs>
+    <linearGradient id="sea" x1="94" y1="42" x2="181" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#59a9ca"/>
+      <stop offset="1" stop-color="#14586a"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="423" y1="161" x2="636" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffe66a"/>
+      <stop offset="1" stop-color="#ffd700"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#0f6f3c" d="M158.5 16.9 174 32l22.5-3.7 9.4 19.4 22 5.7 1 21.5 17.2 13.4-7.7 20.2 9.8 19.1-15.7 14.8-1.8 21.5-22.4 4.2-10.4 19-22.2-5-16.6 14-18.1-11.7-21.5 6.6-12.2-17.8-22.7-2.5-3.9-21.2-17-12.4 6.1-20.7-10.9-18.6 14.5-15.9.1-21.6 21.8-7.3 8.8-19.9 22.7 2.2 15.7-14.4Z"/>
+    <circle cx="151" cy="107" r="67" fill="#f7faf8"/>
+    <path fill="url(#sea)" d="M111 79h71c8.8 0 16 7.2 16 16v44c0 8.8-7.2 16-16 16h-71c-8.8 0-16-7.2-16-16V95c0-8.8 7.2-16 16-16Z"/>
+    <path fill="#082b30" d="M116 67h58c6.6 0 12 5.4 12 12v18h-82V79c0-6.6 5.4-12 12-12Zm4 86h67v21h-67z"/>
+    <path fill="#fff" d="M124 52h45c4.4 0 8 3.6 8 8v31h-61V60c0-4.4 3.6-8 8-8Z"/>
+    <path fill="#ffd700" d="M138 120h19v-15l23 24-23 24v-15h-19z"/>
+    <rect width="37" height="14" x="148" y="82" fill="#ffd700" rx="3"/>
+    <circle cx="191" cy="88" r="4" fill="#f7faf8"/>
+    <circle cx="203" cy="88" r="4" fill="#f7faf8"/>
+    <path stroke="#0f6f3c" stroke-linecap="round" stroke-width="8" d="M81 186c18.3 16 37 16 56 0 18.7 16 37.3 16 56 0 17.7 16 35.7 16 54 0"/>
+    <path stroke="#ffd700" stroke-linecap="round" stroke-width="8" d="M75 208c20.4 14.7 41 14.7 62 0 20.6 14.7 41.6 14.7 63 0"/>
+    <text fill="#0f6f3c" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="900" letter-spacing="0">
+      <tspan x="292" y="91">COPIADORAS</tspan>
+    </text>
+    <text fill="#082b30" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="900" letter-spacing="0">
+      <tspan x="292" y="136">Y MULTIFUNCIONALES</tspan>
+    </text>
+    <text fill="url(#gold)" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="900" letter-spacing="0">
+      <tspan x="292" y="198">DEL PUERTO</tspan>
+    </text>
+    <path stroke="#0f6f3c" stroke-linecap="round" stroke-width="7" d="M292 216h140M611 216h80"/>
+  </g>
+</svg>
