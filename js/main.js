@@ -45,6 +45,9 @@ if (marquee) {
     "Venta y renta de copiadoras",
     "Mantenimiento de impresoras",
     "Tóner original y genérico",
+    "Cámaras CCTV e IP",
+    "Mantenimiento de equipo de cómputo",
+    "Instalación de redes",
     "Atención personalizada"
   ];
 
