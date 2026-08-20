@@ -1,4 +1,4 @@
-const WA_NUMBER = "529381885006";
+const WA_NUMBER = "529381619732";
 
 function hideLoader() {
   const loader = document.getElementById("loader");
